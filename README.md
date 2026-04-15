@@ -1,17 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mior Danial Hakim
-=========================================================================================================================================
+# Hi, I'm Danial Hakim 👋
 
-A Passionate Cybersecurity Student
-----------------------------------
+🎓 Third-year Computer Science student
+(Bachelor of Computer Science – Computer Networks & Security)
+Universiti Teknologi Malaysia (UTM)
 
-Hello, up there is my name but you can call me Danial! I'm a first-year student at UTM, pursuing a Bachelor's degree in Computer Science with a specialization in Network and Computer Security. I'm all about breaking the code and strengthening digital defences. I'm excited to dive deeper into cybersecurity and networks, eager to unravel their complexities and learn more. It's a journey of curiosity where curiosity meets ambition!
+📚 Currently working on:
+Comparative analysis of cross-language software vulnerability detection using LLMs across C/C++, Python, and Java datasets
 
-* 🌍  I'm based in UTM Skudai, Johor Bahru
-* ✉️  You can contact me at [mdhmzb@gmail.com](mailto:mdhmzb@gmail.com)
+🚀 Goal:
+Building strong foundations for a career in cybersecurity and network defense
 
-### Skills
+🧠 Core Skills:
+* Python
+* Java
+* C / C++
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Networking Fundamentals
+* Linux
+* Web Programming (HTML, CSS, JavaScript, PHP, MySQL)
 
+🛠 Software & Tools:
+* VS Code
+* Cisco Packet Tracer
+* GitHub
+* Figma
+* Canva
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-</p>
+🛠 Skills & Tools:
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode\&logoColor=white)
+
+📫 Contact:
+LinkedIn: https://linkedin.com/in/your-link
+Email: mdhmzb@gmail.com
