@@ -1,4 +1,4 @@
-# Hi, I'm Danial Hakim 👋
+# Hi, I'm Mior Danial Hakim 👋
 
 🎓 Third-year Computer Science student
 (Bachelor of Computer Science – Computer Networks & Security)
